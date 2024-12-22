@@ -27,6 +27,8 @@ Nous pensons néanmoins qu'il est possible de raccourcir notre code puisque nous
 
 Nous vous remercions par la même occasion pour le temps que vous nous avez porté pour l'apprentissage de l'informatique et du code.
 
+Pour toute question vous pouvez nous contacter par mail aux adresses suivantes : fr.rastello@gmail.com et alban.aguesse@gmail.com
+
 Bonne journée,
 
 Bien à vous,
@@ -63,6 +65,8 @@ We were unable to create the legend in the charts, which makes them harder to re
 We think it is possible to shorten our code since we recall the functions each time, but the code is functional so we keep it. There are many functions because it was the easiest for us to write and test them and especially easier to work together. But it also allows someone to recover the functions that interest him and he needs for his work.
 
 We also thank you for the time you have given us to learn computer science and code.
+
+If you have any questions, please contact us by email at the following addresses: fr.rastello@gmail.com and alban.aguesse@gmail.com
 
 Have a good day,
 
