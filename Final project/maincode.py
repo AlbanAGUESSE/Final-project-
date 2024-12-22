@@ -296,6 +296,9 @@ def renderFecal(filepath, outpath, sample_types):
 
         axes.plot(x,y, color)
 
+        axes.plot(x,y, color, label=treatment)
+        axes.legend(loc='lower right', fontsize=4, title="Type Traitement")
+        
     # Save as image
     figure.savefig(outpath, dpi=300)
 
